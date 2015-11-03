@@ -19,7 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    GSDeleteButton *button=[[GSDeleteButton alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+    GSDeleteButton *button=[[GSDeleteButton alloc] initWithFrame:CGRectMake(100, 100, 21, 21)];
     
     button.backgroundColor=[UIColor lightGrayColor];
     
